@@ -1,0 +1,15 @@
+/Users/gio/Desktop/HangMan_Game/HangMan_Game/bin/Debug/net6.0/HangMan_Game
+/Users/gio/Desktop/HangMan_Game/HangMan_Game/bin/Debug/net6.0/HangMan_Game.deps.json
+/Users/gio/Desktop/HangMan_Game/HangMan_Game/bin/Debug/net6.0/HangMan_Game.runtimeconfig.json
+/Users/gio/Desktop/HangMan_Game/HangMan_Game/bin/Debug/net6.0/HangMan_Game.dll
+/Users/gio/Desktop/HangMan_Game/HangMan_Game/bin/Debug/net6.0/HangMan_Game.pdb
+/Users/gio/Desktop/HangMan_Game/HangMan_Game/obj/Debug/net6.0/HangMan_Game.csproj.AssemblyReference.cache
+/Users/gio/Desktop/HangMan_Game/HangMan_Game/obj/Debug/net6.0/HangMan_Game.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gio/Desktop/HangMan_Game/HangMan_Game/obj/Debug/net6.0/HangMan_Game.AssemblyInfoInputs.cache
+/Users/gio/Desktop/HangMan_Game/HangMan_Game/obj/Debug/net6.0/HangMan_Game.AssemblyInfo.cs
+/Users/gio/Desktop/HangMan_Game/HangMan_Game/obj/Debug/net6.0/HangMan_Game.csproj.CoreCompileInputs.cache
+/Users/gio/Desktop/HangMan_Game/HangMan_Game/obj/Debug/net6.0/HangMan_Game.dll
+/Users/gio/Desktop/HangMan_Game/HangMan_Game/obj/Debug/net6.0/refint/HangMan_Game.dll
+/Users/gio/Desktop/HangMan_Game/HangMan_Game/obj/Debug/net6.0/HangMan_Game.pdb
+/Users/gio/Desktop/HangMan_Game/HangMan_Game/obj/Debug/net6.0/HangMan_Game.genruntimeconfig.cache
+/Users/gio/Desktop/HangMan_Game/HangMan_Game/obj/Debug/net6.0/ref/HangMan_Game.dll
